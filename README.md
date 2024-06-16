@@ -8,4 +8,5 @@ This Streamlit app allows us to visualize and analyze trends.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
-https://img.shields.io/badge/Project%2520Status-Active-green
+![image](https://github.com/ShivamSapru/Data-Vizualiser-Web-App/assets/91654246/986b8e4b-17aa-4deb-a844-38dec91050ea)
+
